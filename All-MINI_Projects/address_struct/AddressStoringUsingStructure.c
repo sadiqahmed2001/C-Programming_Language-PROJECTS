@@ -45,7 +45,7 @@ int main() {
     for (int i = 0; i < n; i++) {
         printf("Address %d:\n", i + 1);
         printf("Street: %s\n", addresses[i].street);
-        printf("City: %s\n", addresses[i].city);
+        printf("City: %s\n", addresses[i].city);      
         printf("State: %s\n", addresses[i].state);
         printf("Zip: %d\n", addresses[i].zip);
         printf("\n");
