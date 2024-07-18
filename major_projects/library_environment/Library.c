@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Define structure for Book
+// Define structure for Book  
 struct Book {
     char title[100];
     char author[100];
